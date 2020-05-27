@@ -11,11 +11,11 @@ project "ImGui"
 		"imgui.h",
 		"imgui.cpp",
 		"imgui_draw.cpp",
-		"imgui_internal.cpp",
+		"imgui_internal.h",
 		"imgui_widgets.cpp",
-		"imgui_rectpack.cpp",
-		"imgui_textedit.cpp",
-		"imgui_truetype.cpp",
+		"imgui_rectpack.h",
+		"imgui_textedit.h",
+		"imgui_truetype.h",
 		"imgui_demo.cpp"
 	}
 
