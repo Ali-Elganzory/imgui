@@ -19,11 +19,6 @@ project "ImGui"
 		"imgui_demo.cpp"
 	}
 
-	includedirs
-	{
-		"include"
-	}
-
 	filter "system:windows"
 		systemversion "latest"
         cppdialect "C++17"
